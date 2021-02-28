@@ -1,0 +1,2 @@
+C:\Users\kurtulusocL\Desktop\WebServices\WebServices.WebAPI\obj\Debug\WebServices.WebAPI.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\WebServices\WebServices.WebAPI\obj\Debug\WebServices.WebAPI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\kurtulusocL\Desktop\WebServices\WebServices.SOAP\bin\WebServices.SOAP.dll.config
+C:\Users\kurtulusocL\Desktop\WebServices\WebServices.SOAP\bin\WebServices.SOAP.dll
+C:\Users\kurtulusocL\Desktop\WebServices\WebServices.SOAP\bin\WebServices.SOAP.pdb
+C:\Users\kurtulusocL\Desktop\WebServices\WebServices.SOAP\obj\Debug\WebServices.SOAP.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\WebServices\WebServices.SOAP\obj\Debug\WebServices.SOAP.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\WebServices\WebServices.SOAP\obj\Debug\WebServices.SOAP.dll
+C:\Users\kurtulusocL\Desktop\WebServices\WebServices.SOAP\obj\Debug\WebServices.SOAP.pdb
